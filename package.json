@@ -1,0 +1,29 @@
+{
+  "name": "vue-video-player",
+  "version": "0.0.1",
+  "description": "Video player for Doctrina training platform.",
+  "author": "Doctrina <info@doctrina.biz>",
+  "contributors": [{
+    "name": "Tadej Stanic"
+  },
+  {
+    "name": "Kristijan Sedlak"
+  }],
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doctrinalabs/vue-video-player.git"
+  },
+  "bugs": {
+    "url": "https://github.com/doctrinalabs/vue-video-player/issues"
+  },
+  "keywords": [
+    "video",
+    "player",
+    "vue"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT"
+}

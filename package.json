@@ -1,5 +1,5 @@
 {
-  "name": "vue-video-player",
+  "name": "@doctrina/vue-video-player",
   "version": "0.0.1",
   "description": "Video player for Doctrina training platform.",
   "author": "Doctrina <info@doctrina.biz>",
